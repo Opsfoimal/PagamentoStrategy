@@ -1,4 +1,4 @@
-
+// Implementação de pagamento com transferência bancária
 public class BankTransferPayment implements PaymentStrategy {
     @Override
     public void pay(double amount) {

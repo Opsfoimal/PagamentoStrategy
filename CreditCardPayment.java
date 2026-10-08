@@ -1,4 +1,4 @@
-
+// Implementação de pagamento com cartão de crédito
 public class CreditCardPayment implements PaymentStrategy {
     @Override
     public void pay(double amount) {

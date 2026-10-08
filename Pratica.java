@@ -1,4 +1,4 @@
-
+// Classe principal (Client)
 import java.util.Scanner;
 
 public class Pratica {
